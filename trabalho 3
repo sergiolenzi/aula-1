@@ -1,0 +1,19 @@
+Diferenças entre linguagens de programação:são sistemas formais usados para criar programas de computador, ou seja, conjuntos de instruções que uma máquina pode executar. Elas permitem que você diga ao computador o que fazer e como fazer, desde operações matemáticas simples até tarefas complexas, como manipulação de dados e controle de dispositivos.
+Existem diferentes tipos de linguagens de programação, cada uma com suas características e propósitos:
+
+1 - Python: é uma linguagem de alto nível, conhecida por sua sintaxe clara e legibilidade. É amplamente usada em desenvolvimento web, análise de dados, inteligência artificial e automação. Tem uma sintaxe mais flexível e menos rigorosa em comparação com Java. A indentação é usada para definir blocos de código, e a definição de tipos de dados é implícita.
+É uma linguagem interpretada, o que significa que o código é executado diretamente pelo interpretador Python sem necessidade de compilação prévia. O código Python pode ser executado em qualquer sistema onde o interpretador esteja disponível. É uma linguagem dinamicamente tipada, o que significa que o tipo de uma variável é determinado em tempo de execução
+e pode mudar durante a execução do programa. Desenvolvimento web, automação de tarefas, ciência de dados, inteligência artificial, e scripts.
+
+https://www.mycompiler.io/new/python
+
+2 - Java: é uma linguagem de programação orientada a objetos e de alto nível, conhecida por sua portabilidade e robustez. É amplamente usada em desenvolvimento de aplicações web, móveis e sistemas corporativos. Tem uma sintaxe rígida e requer a definição explícita de tipos de dados. O código é organizado em classes e métodos, seguindo o paradigma 
+de programação orientada a objetos (POO). É compilado para bytecode, que é executado pela Java Virtual Machine (JVM). Isso permite que Java seja portável e execute em diferentes plataformas, desde que uma JVM esteja disponível. É uma linguagem fortemente tipada, o que significa que os tipos de variáveis devem ser definidos explicitamente e o tipo 
+não pode mudar após a declaração. Desenvolvimentos de sistemas empresariais, aplicativos Android, aplicativos web corporativos, e sistemas de backend.
+
+https://onecompiler.com/java/42ptzsfq6
+
+3 - JavaScript: é uma linguagem de script amplamente utilizada para desenvolvimento web, tanto no lado do cliente (navegador) quanto no servidor (com Node.js). É interpretado e executado pelo navegador web ou pelo ambiente de runtime Node.js no servidor. Isso permite a execução direta do código sem necessidade de compilação. É dinamicamente tipada, 
+similar ao Python, permitindo que variáveis mudem de tipo durante a execução. Desenvolvimento web (lado do cliente e servidor), desenvolvimento de aplicativos web interativos, e scripts para automação.
+
+https://www.mycompiler.io/view/BCLmfLvZstl
